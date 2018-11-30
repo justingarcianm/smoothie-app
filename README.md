@@ -6,7 +6,7 @@
 
 ``` bash
 # What is this?
-A simple app that lets a user create, edit, and delete smoothies linked to a database.
+A simple app that lets a user create, edit, and delete smoothies linked to a database. Hosted by google firebase.
 
 
 
@@ -18,4 +18,4 @@ A simple app that lets a user create, edit, and delete smoothies linked to a dat
 
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+[smoothie site](https://ninja-smoothies-4d332.firebaseapp.com/#/) 
